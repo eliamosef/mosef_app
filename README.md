@@ -1,1 +1,2 @@
 # mosef_app
+ bash 
