@@ -1,0 +1,10 @@
+Flask==3.0.0
+fr-core-news-md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.7.0/fr_core_news_md-3.7.0-py3-none-any.whl
+pandas==2.0.3
+Pillow==10.1.0
+plotly==5.18.0
+spacy==3.7.2
+typing_extensions==4.8.0
+tzdata==2023.3
+wordcloud==1.9.2
+zipp==1.0.0

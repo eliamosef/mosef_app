@@ -2,4 +2,4 @@
 
 cd ../
 
-python core.py
+python3 core.py
