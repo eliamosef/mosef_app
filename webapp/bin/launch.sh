@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd ../
-python -m flask --app mosef run
+python3 -m flask --app mosef run --host=0.0.0.0
