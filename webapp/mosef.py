@@ -62,7 +62,7 @@ def about():
    fig = go.Figure(
         data=[go.Scatter(
             x=[1 for x in res], y=[y[1] for y in res],
-            text=[x[0] + "<br>frequence: " + str(x[1]) for x in res],
+            text=[str(x[0]) + "<br>frequence: " + str(x[1]) for x in res],
             mode='markers',
             marker=dict(
                 size=size,
