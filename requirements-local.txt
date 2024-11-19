@@ -1,0 +1,10 @@
+Flask
+fr-core-news-md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.6.0/fr_core_news_md-3.6.0-py3-none-any.whl
+pandas
+Pillow
+plotly
+spacy>=3.6.0
+typing_extensions
+tzdata
+wordcloud==1.8.0
+zipp
