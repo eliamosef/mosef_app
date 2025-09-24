@@ -1,5 +1,6 @@
 Flask==3.0.0
 fr-core-news-md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.7.0/fr_core_news_md-3.7.0-py3-none-any.whl
+numpy==1.26.4
 pandas==2.0.3
 Pillow==10.1.0
 plotly==5.18.0
