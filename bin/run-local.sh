@@ -1,5 +1,5 @@
 #!/bin/bash
-source ../.venv/bin/activate
+source ../.venv/Scripts/activate
 export FLASK_APP=../webapp/mosef.py
 export FLASK_ENV=development
 

@@ -2,4 +2,4 @@
 
 cd ../integrator
 
-python3 core.py
+python core.py
